@@ -12,5 +12,4 @@ About Me
 💬 Ask me about software development, web technologies, or any tech-related questions.
 Get in Touch
 📫 Feel free to reach me at agushusseindiaz@gmail.com 
-🌐 Check out my website: [your personal website, if applicable].
 Looking forward to connecting and collaborating on exciting projects!
